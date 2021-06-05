@@ -1,5 +1,5 @@
 # MyWebServer
-Cpp11实现的Web服务器
+基于`Cpp`实现的`Web`服务器，支持静态资源的访问（图片、视频）。
 
 ## 项目描述
 - 使用状态机解析`HTTP`请求报文，处理`GET`和`POST`请求
@@ -7,7 +7,7 @@ Cpp11实现的Web服务器
 - 使用IO复用技术`Epoll`，实现`Reactor`事件处理模式
 - 使用`epoll_wait`实现定时功能，小根堆管理定时器
 - 使用单例模式实现线程池与数据库连接池；
-- 使用阻塞队列实现异步的日志功能，记录服务器的运行状态
+- 使用阻塞队列实现日志功能，记录服务器的运行状态
 
 ## 开发环境
 - Linux
@@ -65,4 +65,3 @@ make
 
 ## 参考资料
 Linux高性能服务器编程，游双著
-[markparticle/WebServer](https://github.com/markparticle/WebServer)
