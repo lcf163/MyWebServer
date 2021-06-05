@@ -1,0 +1,1007 @@
+2021-06-05 20:16:36.024788 [info] : ========== Server init ==========
+2021-06-05 20:16:36.024843 [info] : Port:8081, OpenLinger: false
+2021-06-05 20:16:36.024852 [info] : Listen Mode: ET, OpenConn Mode: ET
+2021-06-05 20:16:36.024859 [info] : LogSys level: 1
+2021-06-05 20:16:36.024865 [info] : srcDir: /home/lm/MyWebServer/resources/
+2021-06-05 20:16:36.024871 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2021-06-05 20:16:36.024877 [info] : ========= Server start =========
+2021-06-05 20:17:25.710401 [info] : Client[6](192.168.3.1:45250) in, userCount:1
+2021-06-05 20:17:25.711509 [info] : Client[6] in!
+2021-06-05 20:17:25.711573 [info] : Client[7](192.168.3.1:45506) in, userCount:2
+2021-06-05 20:17:25.711689 [info] : Client[7] in!
+2021-06-05 20:17:26.994841 [info] : Client[8](192.168.3.1:45762) in, userCount:3
+2021-06-05 20:17:26.998102 [info] : Client[8] in!
+2021-06-05 20:17:26.998728 [info] : Client[10](192.168.3.1:46018) in, userCount:4
+2021-06-05 20:17:26.998957 [info] : Client[10] in!
+2021-06-05 20:17:27.038286 [info] : Client[9](192.168.3.1:46274) in, userCount:5
+2021-06-05 20:17:27.038334 [info] : Client[9] in!
+2021-06-05 20:17:27.088023 [info] : Client[11](192.168.3.1:46530) in, userCount:6
+2021-06-05 20:17:27.088163 [info] : Client[11] in!
+2021-06-05 20:18:01.732685 [info] : Client[10] quit!
+2021-06-05 20:18:01.734619 [info] : Client[10](192.168.3.1:46018) quit, UserCount:5
+2021-06-05 20:18:01.735630 [info] : Client[9] quit!
+2021-06-05 20:18:01.736758 [info] : Client[9](192.168.3.1:46274) quit, UserCount:4
+2021-06-05 20:18:01.736846 [info] : Client[8] quit!
+2021-06-05 20:18:01.738744 [info] : Client[8](192.168.3.1:45762) quit, UserCount:3
+2021-06-05 20:18:01.740173 [info] : Client[11] quit!
+2021-06-05 20:18:01.740611 [info] : Client[11](192.168.3.1:46530) quit, UserCount:2
+2021-06-05 20:18:01.740680 [info] : Client[6] quit!
+2021-06-05 20:18:01.741021 [info] : Client[6](192.168.3.1:45250) quit, UserCount:1
+2021-06-05 20:18:01.741078 [info] : Client[7] quit!
+2021-06-05 20:18:01.743690 [info] : Client[7](192.168.3.1:45506) quit, UserCount:0
+2021-06-05 20:18:14.989992 [info] : Client[6](192.168.3.1:46786) in, userCount:1
+2021-06-05 20:18:14.990135 [info] : Client[6] in!
+2021-06-05 20:18:14.990161 [info] : Client[7](192.168.3.1:47042) in, userCount:2
+2021-06-05 20:18:14.990173 [info] : Client[7] in!
+2021-06-05 20:18:15.158417 [info] : Client[9](192.168.3.1:47298) in, userCount:3
+2021-06-05 20:18:15.159156 [info] : Client[9] in!
+2021-06-05 20:18:15.159424 [info] : Client[8](192.168.3.1:47554) in, userCount:4
+2021-06-05 20:18:15.159540 [info] : Client[8] in!
+2021-06-05 20:18:15.159599 [info] : Client[10](192.168.3.1:47810) in, userCount:5
+2021-06-05 20:18:15.159641 [info] : Client[10] in!
+2021-06-05 20:18:15.161127 [info] : Client[11](192.168.3.1:48066) in, userCount:6
+2021-06-05 20:18:15.161181 [info] : Client[11] in!
+2021-06-05 20:23:53.546428 [info] : ========== Server init ==========
+2021-06-05 20:23:53.546481 [info] : Port:8081, OpenLinger: false
+2021-06-05 20:23:53.546492 [info] : Listen Mode: ET, OpenConn Mode: ET
+2021-06-05 20:23:53.546502 [info] : LogSys level: 1
+2021-06-05 20:23:53.546512 [info] : srcDir: /home/lm/MyWebServer/resources/
+2021-06-05 20:23:53.546517 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2021-06-05 20:23:53.546520 [info] : ========= Server start =========
+2021-06-05 20:24:13.810824 [info] : Client[6](192.168.3.1:57794) in, userCount:1
+2021-06-05 20:24:13.810966 [info] : Client[6] in!
+2021-06-05 20:24:13.810998 [info] : Client[7](192.168.3.1:58050) in, userCount:2
+2021-06-05 20:24:13.811013 [info] : Client[7] in!
+2021-06-05 20:24:13.984076 [info] : Client[8](192.168.3.1:58306) in, userCount:3
+2021-06-05 20:24:13.984215 [info] : Client[8] in!
+2021-06-05 20:24:13.984268 [info] : Client[9](192.168.3.1:58562) in, userCount:4
+2021-06-05 20:24:13.984285 [info] : Client[9] in!
+2021-06-05 20:24:13.984299 [info] : Client[10](192.168.3.1:58818) in, userCount:5
+2021-06-05 20:24:13.984309 [info] : Client[10] in!
+2021-06-05 20:24:14.112554 [info] : Client[11](192.168.3.1:59074) in, userCount:6
+2021-06-05 20:24:14.141625 [info] : Client[11] in!
+2021-06-05 20:24:16.563273 [info] : Client[11] quit!
+2021-06-05 20:24:16.589566 [info] : Client[11](192.168.3.1:59074) quit, UserCount:5
+2021-06-05 20:24:16.771375 [info] : Client[11](192.168.3.1:59330) in, userCount:6
+2021-06-05 20:24:16.771469 [info] : Client[11] in!
+2021-06-05 20:38:53.189777 [info] : ========== Server init ==========
+2021-06-05 20:38:53.189879 [info] : Port:8081, OpenLinger: false
+2021-06-05 20:38:53.189898 [info] : Listen Mode: ET, OpenConn Mode: ET
+2021-06-05 20:38:53.189907 [info] : LogSys level: 1
+2021-06-05 20:38:53.189913 [info] : srcDir: /home/lm/MyWebServer/resources/
+2021-06-05 20:38:53.189918 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2021-06-05 20:38:53.189923 [info] : ========= Server start =========
+2021-06-05 20:38:57.493748 [info] : Client[6](192.168.3.1:27079) in, userCount:1
+2021-06-05 20:38:57.506130 [info] : Client[6] in!
+2021-06-05 20:38:57.506195 [info] : Client[7](192.168.3.1:27335) in, userCount:2
+2021-06-05 20:38:57.506208 [info] : Client[7] in!
+2021-06-05 20:38:57.729637 [info] : Client[8](192.168.3.1:27847) in, userCount:3
+2021-06-05 20:38:57.730162 [info] : Client[8] in!
+2021-06-05 20:38:57.730251 [info] : Client[9](192.168.3.1:28103) in, userCount:4
+2021-06-05 20:38:57.730320 [info] : Client[9] in!
+2021-06-05 20:38:57.730377 [info] : Client[10](192.168.3.1:28359) in, userCount:5
+2021-06-05 20:38:57.730398 [info] : Client[10] in!
+2021-06-05 20:38:57.906478 [info] : Client[11](192.168.3.1:28615) in, userCount:6
+2021-06-05 20:38:57.911209 [info] : Client[11] in!
+2021-06-05 20:39:07.392835 [info] : Client[11] quit!
+2021-06-05 20:39:07.396787 [info] : Client[11](192.168.3.1:28615) quit, UserCount:5
+2021-06-05 20:39:07.397746 [info] : Client[7] quit!
+2021-06-05 20:39:07.400837 [info] : Client[7](192.168.3.1:27335) quit, UserCount:4
+2021-06-05 20:39:07.402314 [info] : Client[10] quit!
+2021-06-05 20:39:07.410298 [info] : Client[10](192.168.3.1:28359) quit, UserCount:3
+2021-06-05 20:39:07.410616 [info] : Client[9] quit!
+2021-06-05 20:39:07.413666 [info] : Client[9](192.168.3.1:28103) quit, UserCount:2
+2021-06-05 20:39:07.418973 [info] : Client[6] quit!
+2021-06-05 20:39:07.431411 [info] : Client[6](192.168.3.1:27079) quit, UserCount:1
+2021-06-05 20:39:07.431514 [info] : Client[8] quit!
+2021-06-05 20:39:07.431854 [info] : Client[8](192.168.3.1:27847) quit, UserCount:0
+2021-06-05 20:39:10.300282 [info] : Client[6](192.168.3.1:31431) in, userCount:1
+2021-06-05 20:39:10.303343 [info] : Client[6] in!
+2021-06-05 20:39:10.303463 [info] : Client[7](192.168.3.1:31687) in, userCount:2
+2021-06-05 20:39:10.303622 [info] : Client[7] in!
+2021-06-05 20:39:10.685004 [info] : Client[8](192.168.3.1:31943) in, userCount:3
+2021-06-05 20:39:10.701098 [info] : Client[8] in!
+2021-06-05 20:39:10.701164 [info] : Client[9](192.168.3.1:32199) in, userCount:4
+2021-06-05 20:39:10.701184 [info] : Client[9] in!
+2021-06-05 20:39:10.701196 [info] : Client[10](192.168.3.1:32455) in, userCount:5
+2021-06-05 20:39:10.701206 [info] : Client[10] in!
+2021-06-05 20:39:10.730672 [info] : Client[11](192.168.3.1:32711) in, userCount:6
+2021-06-05 20:39:10.730715 [info] : Client[11] in!
+2021-06-05 20:39:17.384766 [info] : Client[10] quit!
+2021-06-05 20:39:17.385144 [info] : Client[10](192.168.3.1:32455) quit, UserCount:5
+2021-06-05 20:39:17.385173 [info] : Client[7] quit!
+2021-06-05 20:39:17.385339 [info] : Client[7](192.168.3.1:31687) quit, UserCount:4
+2021-06-05 20:39:17.385359 [info] : Client[8] quit!
+2021-06-05 20:39:17.385540 [info] : Client[8](192.168.3.1:31943) quit, UserCount:3
+2021-06-05 20:39:17.385575 [info] : Client[9] quit!
+2021-06-05 20:39:17.385732 [info] : Client[9](192.168.3.1:32199) quit, UserCount:2
+2021-06-05 20:39:17.385753 [info] : Client[11] quit!
+2021-06-05 20:39:17.385898 [info] : Client[11](192.168.3.1:32711) quit, UserCount:1
+2021-06-05 20:39:17.385918 [info] : Client[6] quit!
+2021-06-05 20:39:17.386096 [info] : Client[6](192.168.3.1:31431) quit, UserCount:0
+2021-06-05 20:39:18.438206 [info] : Client[6](192.168.3.1:35271) in, userCount:1
+2021-06-05 20:39:18.438305 [info] : Client[6] in!
+2021-06-05 20:39:18.438324 [info] : Client[7](192.168.3.1:35527) in, userCount:2
+2021-06-05 20:39:18.438335 [info] : Client[7] in!
+2021-06-05 20:40:19.030130 [info] : ========== Server init ==========
+2021-06-05 20:40:19.030170 [info] : Port:8081, OpenLinger: false
+2021-06-05 20:40:19.030181 [info] : Listen Mode: ET, OpenConn Mode: ET
+2021-06-05 20:40:19.030189 [info] : LogSys level: 1
+2021-06-05 20:40:19.030197 [info] : srcDir: /home/lm/MyWebServer/resources/
+2021-06-05 20:40:19.030205 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2021-06-05 20:40:19.030213 [info] : ========= Server start =========
+2021-06-05 20:40:31.937946 [info] : Client[6](192.168.3.1:31572) in, userCount:1
+2021-06-05 20:40:31.938069 [info] : Client[6] in!
+2021-06-05 20:40:31.938086 [info] : Client[7](192.168.3.1:31828) in, userCount:2
+2021-06-05 20:40:31.938096 [info] : Client[7] in!
+2021-06-05 20:40:32.984158 [info] : Client[6] quit!
+2021-06-05 20:40:32.984588 [info] : Client[6](192.168.3.1:31572) quit, UserCount:1
+2021-06-05 20:40:32.984646 [info] : Client[6](192.168.3.1:32340) in, userCount:2
+2021-06-05 20:40:32.984688 [info] : Client[6] in!
+2021-06-05 20:40:32.984714 [info] : Client[8](192.168.3.1:32596) in, userCount:3
+2021-06-05 20:40:32.984725 [info] : Client[8] in!
+2021-06-05 20:40:32.984747 [info] : Client[9](192.168.3.1:32852) in, userCount:4
+2021-06-05 20:40:32.984762 [info] : Client[9] in!
+2021-06-05 20:40:32.984775 [info] : Client[10](192.168.3.1:33108) in, userCount:5
+2021-06-05 20:40:32.984784 [info] : Client[10] in!
+2021-06-05 20:40:33.304536 [info] : Client[11](192.168.3.1:2052) in, userCount:6
+2021-06-05 20:40:33.304599 [info] : Client[11] in!
+2021-06-05 20:40:37.453319 [info] : Client[11] quit!
+2021-06-05 20:40:37.454250 [info] : Client[11](192.168.3.1:2052) quit, UserCount:5
+2021-06-05 20:40:37.454295 [info] : Client[8] quit!
+2021-06-05 20:40:37.454776 [info] : Client[8](192.168.3.1:32596) quit, UserCount:4
+2021-06-05 20:40:37.454817 [info] : Client[7] quit!
+2021-06-05 20:40:37.455287 [info] : Client[7](192.168.3.1:31828) quit, UserCount:3
+2021-06-05 20:40:37.455328 [info] : Client[9] quit!
+2021-06-05 20:40:37.455634 [info] : Client[9](192.168.3.1:32852) quit, UserCount:2
+2021-06-05 20:40:37.455884 [info] : Client[6] quit!
+2021-06-05 20:40:37.456330 [info] : Client[6](192.168.3.1:32340) quit, UserCount:1
+2021-06-05 20:40:37.456371 [info] : Client[10] quit!
+2021-06-05 20:40:37.456627 [info] : Client[10](192.168.3.1:33108) quit, UserCount:0
+2021-06-05 20:40:37.837736 [info] : Client[6](192.168.3.1:2820) in, userCount:1
+2021-06-05 20:40:37.837821 [info] : Client[6] in!
+2021-06-05 20:40:37.837842 [info] : Client[7](192.168.3.1:3076) in, userCount:2
+2021-06-05 20:40:37.837953 [info] : Client[7] in!
+2021-06-05 20:40:38.213306 [info] : Client[8](192.168.3.1:4100) in, userCount:3
+2021-06-05 20:40:38.213416 [info] : Client[8] in!
+2021-06-05 20:40:38.213440 [info] : Client[9](192.168.3.1:4356) in, userCount:4
+2021-06-05 20:40:38.213451 [info] : Client[9] in!
+2021-06-05 20:40:38.213461 [info] : Client[10](192.168.3.1:4612) in, userCount:5
+2021-06-05 20:40:38.213471 [info] : Client[10] in!
+2021-06-05 20:40:38.607910 [info] : Client[11](192.168.3.1:4868) in, userCount:6
+2021-06-05 20:40:38.607978 [info] : Client[11] in!
+2021-06-05 20:40:42.417287 [info] : Client[9] quit!
+2021-06-05 20:40:42.417809 [info] : Client[9](192.168.3.1:4356) quit, UserCount:5
+2021-06-05 20:40:42.417896 [info] : Client[7] quit!
+2021-06-05 20:40:42.418155 [info] : Client[7](192.168.3.1:3076) quit, UserCount:4
+2021-06-05 20:40:42.418222 [info] : Client[11] quit!
+2021-06-05 20:40:42.418444 [info] : Client[11](192.168.3.1:4868) quit, UserCount:3
+2021-06-05 20:40:42.418512 [info] : Client[10] quit!
+2021-06-05 20:40:42.418722 [info] : Client[10](192.168.3.1:4612) quit, UserCount:2
+2021-06-05 20:40:42.418786 [info] : Client[6] quit!
+2021-06-05 20:40:42.419007 [info] : Client[6](192.168.3.1:2820) quit, UserCount:1
+2021-06-05 20:40:42.419061 [info] : Client[8] quit!
+2021-06-05 20:40:42.419240 [info] : Client[8](192.168.3.1:4100) quit, UserCount:0
+2021-06-05 20:40:51.537001 [info] : Client[6](192.168.3.1:5636) in, userCount:1
+2021-06-05 20:40:51.537126 [info] : Client[6] in!
+2021-06-05 20:40:51.537180 [info] : Client[7](192.168.3.1:5892) in, userCount:2
+2021-06-05 20:40:51.537220 [info] : Client[7] in!
+2021-06-05 22:49:35.720395 [info] : ========== Server init ==========
+2021-06-05 22:49:35.720436 [info] : Port:8081, OpenLinger: false
+2021-06-05 22:49:35.720449 [info] : Listen Mode: ET, OpenConn Mode: ET
+2021-06-05 22:49:35.720454 [info] : LogSys level: 1
+2021-06-05 22:49:35.720571 [info] : srcDir: /home/lm/MyWebServer/resources/
+2021-06-05 22:49:35.720590 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2021-06-05 22:49:35.723192 [info] : ========= Server start =========
+2021-06-05 22:49:42.221116 [info] : Client[6](192.168.3.1:4136) in, userCount:1
+2021-06-05 22:49:42.225257 [info] : Client[6] in!
+2021-06-05 22:49:42.225351 [info] : Client[7](192.168.3.1:4392) in, userCount:2
+2021-06-05 22:49:42.225369 [info] : Client[7] in!
+2021-06-05 22:49:42.669638 [info] : Client[8](192.168.3.1:5160) in, userCount:3
+2021-06-05 22:49:42.669722 [info] : Client[8] in!
+2021-06-05 22:49:42.669742 [info] : Client[9](192.168.3.1:5416) in, userCount:4
+2021-06-05 22:49:42.669754 [info] : Client[9] in!
+2021-06-05 22:49:42.669768 [info] : Client[10](192.168.3.1:5672) in, userCount:5
+2021-06-05 22:49:42.669779 [info] : Client[10] in!
+2021-06-05 22:49:42.903171 [info] : Client[11](192.168.3.1:5928) in, userCount:6
+2021-06-05 22:49:42.903259 [info] : Client[11] in!
+2021-06-05 22:49:48.448589 [info] : Client[11] quit!
+2021-06-05 22:49:48.450483 [info] : Client[11](192.168.3.1:5928) quit, UserCount:5
+2021-06-05 22:49:48.450562 [info] : Client[6] quit!
+2021-06-05 22:49:48.452248 [info] : Client[6](192.168.3.1:4136) quit, UserCount:4
+2021-06-05 22:49:48.456705 [info] : Client[7] quit!
+2021-06-05 22:49:48.467803 [info] : Client[7](192.168.3.1:4392) quit, UserCount:3
+2021-06-05 22:49:48.467894 [info] : Client[10] quit!
+2021-06-05 22:49:48.468146 [info] : Client[10](192.168.3.1:5672) quit, UserCount:2
+2021-06-05 22:49:48.468169 [info] : Client[8] quit!
+2021-06-05 22:49:48.468495 [info] : Client[8](192.168.3.1:5160) quit, UserCount:1
+2021-06-05 22:49:48.468511 [info] : Client[9] quit!
+2021-06-05 22:49:48.468887 [info] : Client[9](192.168.3.1:5416) quit, UserCount:0
+2021-06-05 22:50:42.697220 [info] : Client[6] quit!
+2021-06-05 22:50:43.135960 [info] : Client[7] quit!
+2021-06-05 22:50:43.261647 [info] : Client[10] quit!
+2021-06-05 22:50:43.572949 [info] : Client[8] quit!
+2021-06-05 22:50:43.687509 [info] : Client[11] quit!
+2021-06-05 23:00:48.652410 [info] : ========== Server init ==========
+2021-06-05 23:00:48.652472 [info] : Port:8081, OpenLinger: false
+2021-06-05 23:00:48.652510 [info] : Listen Mode: ET, OpenConn Mode: ET
+2021-06-05 23:00:48.652613 [info] : LogSys level: 1
+2021-06-05 23:00:48.652627 [info] : srcDir: /home/lm/MyWebServer/resources/
+2021-06-05 23:00:48.652632 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2021-06-05 23:00:48.652636 [info] : ========= Server start =========
+2021-06-05 23:01:16.191415 [info] : Client[6](192.168.3.1:4395) in, userCount:1
+2021-06-05 23:01:16.191575 [info] : Client[6] in!
+2021-06-05 23:01:16.191787 [info] : Client[7](192.168.3.1:4651) in, userCount:2
+2021-06-05 23:01:16.191971 [info] : Client[7] in!
+2021-06-05 23:01:17.050115 [info] : Client[8](192.168.3.1:5419) in, userCount:3
+2021-06-05 23:01:17.050215 [info] : Client[8] in!
+2021-06-05 23:01:17.050245 [info] : Client[9](192.168.3.1:5675) in, userCount:4
+2021-06-05 23:01:17.050259 [info] : Client[9] in!
+2021-06-05 23:01:17.050273 [info] : Client[10](192.168.3.1:5931) in, userCount:5
+2021-06-05 23:01:17.050285 [info] : Client[10] in!
+2021-06-05 23:01:17.093562 [info] : Client[11](192.168.3.1:6187) in, userCount:6
+2021-06-05 23:01:17.095572 [info] : Client[11] in!
+2021-06-05 23:01:20.453378 [info] : Client[11] quit!
+2021-06-05 23:01:20.456707 [info] : Client[11](192.168.3.1:6187) quit, UserCount:5
+2021-06-05 23:01:20.457234 [info] : Client[7] quit!
+2021-06-05 23:01:20.460635 [info] : Client[7](192.168.3.1:4651) quit, UserCount:4
+2021-06-05 23:01:20.461757 [info] : Client[9] quit!
+2021-06-05 23:01:20.462177 [info] : Client[9](192.168.3.1:5675) quit, UserCount:3
+2021-06-05 23:01:20.462381 [info] : Client[6] quit!
+2021-06-05 23:01:20.462756 [info] : Client[6](192.168.3.1:4395) quit, UserCount:2
+2021-06-05 23:01:20.463047 [info] : Client[10] quit!
+2021-06-05 23:01:20.464925 [info] : Client[10](192.168.3.1:5931) quit, UserCount:1
+2021-06-05 23:01:20.465233 [info] : Client[8] quit!
+2021-06-05 23:01:20.473812 [info] : Client[8](192.168.3.1:5419) quit, UserCount:0
+2021-06-05 23:01:22.604271 [info] : Client[6](192.168.3.1:8747) in, userCount:1
+2021-06-05 23:01:22.604614 [info] : Client[6] in!
+2021-06-05 23:01:22.607051 [info] : Client[7](192.168.3.1:9259) in, userCount:2
+2021-06-05 23:01:22.607295 [info] : Client[7] in!
+2021-06-05 23:01:22.909614 [info] : Client[8](192.168.3.1:9771) in, userCount:3
+2021-06-05 23:01:22.910529 [info] : Client[8] in!
+2021-06-05 23:01:22.910578 [info] : Client[9](192.168.3.1:10027) in, userCount:4
+2021-06-05 23:01:22.910593 [info] : Client[9] in!
+2021-06-05 23:01:22.910603 [info] : Client[10](192.168.3.1:10283) in, userCount:5
+2021-06-05 23:01:22.910612 [info] : Client[10] in!
+2021-06-05 23:01:22.910622 [info] : Client[11](192.168.3.1:10539) in, userCount:6
+2021-06-05 23:01:22.910631 [info] : Client[11] in!
+2021-06-05 23:33:54.870755 [info] : ========== Server init ==========
+2021-06-05 23:33:54.870792 [info] : Port:8081, OpenLinger: false
+2021-06-05 23:33:54.870801 [info] : Listen Mode: ET, OpenConn Mode: ET
+2021-06-05 23:33:54.870808 [info] : LogSys level: 1
+2021-06-05 23:33:54.870820 [info] : srcDir: /home/lm/MyWebServer/resources/
+2021-06-05 23:33:54.870950 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2021-06-05 23:33:54.870962 [info] : ========= Server start =========
+2021-06-05 23:33:59.173499 [info] : Client[18](192.168.3.1:60467) in, userCount:1
+2021-06-05 23:33:59.173594 [info] : Client[18] in!
+2021-06-05 23:33:59.173615 [info] : Client[19](192.168.3.1:60723) in, userCount:2
+2021-06-05 23:33:59.173626 [info] : Client[19] in!
+2021-06-05 23:33:59.424719 [info] : Client[20](192.168.3.1:60979) in, userCount:3
+2021-06-05 23:33:59.424796 [info] : Client[20] in!
+2021-06-05 23:33:59.424820 [info] : Client[21](192.168.3.1:61235) in, userCount:4
+2021-06-05 23:33:59.424831 [info] : Client[21] in!
+2021-06-05 23:33:59.424842 [info] : Client[22](192.168.3.1:61491) in, userCount:5
+2021-06-05 23:33:59.424854 [info] : Client[22] in!
+2021-06-05 23:33:59.973401 [info] : Client[23](192.168.3.1:62003) in, userCount:6
+2021-06-05 23:34:00.293163 [info] : Client[23] in!
+2021-06-05 23:34:00.517819 [info] : Client[21] quit!
+2021-06-05 23:34:00.517947 [info] : Client[21](192.168.3.1:61235) quit, UserCount:5
+2021-06-05 23:34:02.334139 [info] : Client[21](192.168.3.1:62771) in, userCount:6
+2021-06-05 23:34:02.335484 [info] : Client[21] in!
+2021-06-05 23:34:08.566882 [info] : success!
+2021-06-05 23:35:09.282701 [info] : Client[21] quit!
+2021-06-05 23:35:09.283133 [info] : Client[21](192.168.3.1:62771) quit, UserCount:5
+2021-06-05 23:35:09.283230 [info] : Client[23] quit!
+2021-06-05 23:35:09.284225 [info] : Client[23](192.168.3.1:62003) quit, UserCount:4
+2021-06-05 23:35:09.284432 [info] : Client[22] quit!
+2021-06-05 23:35:09.286428 [info] : Client[22](192.168.3.1:61491) quit, UserCount:3
+2021-06-05 23:35:09.393471 [info] : Client[20] quit!
+2021-06-05 23:35:09.396846 [info] : Client[20](192.168.3.1:60979) quit, UserCount:2
+2021-06-05 23:35:09.397089 [info] : Client[18] quit!
+2021-06-05 23:35:09.402016 [info] : Client[18](192.168.3.1:60467) quit, UserCount:1
+2021-06-05 23:35:09.543529 [info] : Client[21] quit!
+
+2021-06-05 23:36:34.863394 [info] : ========== Server init ==========
+2021-06-05 23:36:34.863419 [info] : Port:8081, OpenLinger: false
+2021-06-05 23:36:34.863470 [info] : Listen Mode: ET, OpenConn Mode: ET
+2021-06-05 23:36:34.863478 [info] : LogSys level: 0
+2021-06-05 23:36:34.863484 [info] : srcDir: /home/lm/MyWebServer/resources/
+2021-06-05 23:36:34.863491 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2021-06-05 23:36:34.863499 [info] : ========= Server start =========
+2021-06-05 23:36:38.634773 [info] : Client[18](192.168.3.1:33076) in, userCount:1
+2021-06-05 23:36:38.652062 [info] : Client[18] in!
+2021-06-05 23:36:38.652129 [info] : Client[19](192.168.3.1:33332) in, userCount:2
+2021-06-05 23:36:38.652145 [info] : Client[19] in!
+2021-06-05 23:36:38.668461 [debug]: /index.html
+2021-06-05 23:36:38.669666 [debug]: file path /home/lm/MyWebServer/resources//index.html
+2021-06-05 23:36:38.670644 [debug]: filesize:3041, iovcnt:2, write:3163 bytes
+2021-06-05 23:36:38.924418 [info] : Client[20](192.168.3.1:33588) in, userCount:3
+2021-06-05 23:36:38.924559 [info] : Client[20] in!
+2021-06-05 23:36:38.924586 [info] : Client[21](192.168.3.1:33844) in, userCount:4
+2021-06-05 23:36:38.924597 [info] : Client[21] in!
+2021-06-05 23:36:38.924615 [info] : Client[22](192.168.3.1:34100) in, userCount:5
+2021-06-05 23:36:38.924647 [info] : Client[22] in!
+2021-06-05 23:36:38.926693 [debug]: /css/bootstrap.min.css
+2021-06-05 23:36:38.976271 [debug]: /css/font-awesome.min.css
+2021-06-05 23:36:38.976355 [debug]: file path /home/lm/MyWebServer/resources//css/font-awesome.min.css
+2021-06-05 23:36:38.979511 [debug]: filesize:27392, iovcnt:2, write:27515 bytes
+2021-06-05 23:36:38.979602 [debug]: file path /home/lm/MyWebServer/resources//css/bootstrap.min.css
+2021-06-05 23:36:38.998123 [debug]: filesize:121260, iovcnt:2, write:121384 bytes
+2021-06-05 23:36:39.148258 [debug]: /css/animate.css
+2021-06-05 23:36:39.150090 [debug]: file path /home/lm/MyWebServer/resources//css/animate.css
+2021-06-05 23:36:39.153330 [debug]: /css/style.css
+2021-06-05 23:36:39.153411 [debug]: file path /home/lm/MyWebServer/resources//css/style.css
+2021-06-05 23:36:39.164625 [debug]: filesize:72922, iovcnt:2, write:73045 bytes
+2021-06-05 23:36:39.165094 [debug]: /css/magnific-popup.css
+2021-06-05 23:36:39.165168 [debug]: file path /home/lm/MyWebServer/resources//css/magnific-popup.css
+2021-06-05 23:36:39.171223 [debug]: /js/jquery.js
+2021-06-05 23:36:39.174755 [debug]: filesize:9815, iovcnt:2, write:9937 bytes
+2021-06-05 23:36:39.175086 [debug]: file path /home/lm/MyWebServer/resources//js/jquery.js
+2021-06-05 23:36:39.177766 [debug]: filesize:85658, iovcnt:2, write:85788 bytes
+2021-06-05 23:36:39.229300 [debug]: filesize:6951, iovcnt:2, write:7073 bytes
+2021-06-05 23:36:39.386143 [debug]: /js/smoothscroll.js
+2021-06-05 23:36:39.387677 [debug]: file path /home/lm/MyWebServer/resources//js/smoothscroll.js
+2021-06-05 23:36:39.404673 [debug]: /js/jquery.magnific-popup.min.js
+2021-06-05 23:36:39.404862 [debug]: file path /home/lm/MyWebServer/resources//js/jquery.magnific-popup.min.js
+2021-06-05 23:36:39.405654 [debug]: filesize:4474, iovcnt:2, write:4603 bytes
+2021-06-05 23:36:39.407241 [debug]: /js/bootstrap.min.js
+2021-06-05 23:36:39.411880 [info] : Client[23](192.168.3.1:34356) in, userCount:6
+2021-06-05 23:36:39.411987 [info] : Client[23] in!
+2021-06-05 23:36:39.420582 [debug]: filesize:20932, iovcnt:2, write:21062 bytes
+2021-06-05 23:36:39.421615 [debug]: file path /home/lm/MyWebServer/resources//js/bootstrap.min.js
+2021-06-05 23:36:39.430208 [debug]: /js/wow.min.js
+2021-06-05 23:36:39.430354 [debug]: file path /home/lm/MyWebServer/resources//js/wow.min.js
+2021-06-05 23:36:39.431785 [debug]: /js/magnific-popup-options.js
+2021-06-05 23:36:39.432182 [debug]: filesize:36868, iovcnt:2, write:36998 bytes
+2021-06-05 23:36:39.473422 [debug]: /js/custom.js
+2021-06-05 23:36:39.473581 [debug]: file path /home/lm/MyWebServer/resources//js/custom.js
+2021-06-05 23:36:39.474106 [debug]: file path /home/lm/MyWebServer/resources//js/magnific-popup-options.js
+2021-06-05 23:36:39.502882 [debug]: filesize:1047, iovcnt:2, write:1176 bytes
+2021-06-05 23:36:39.553208 [debug]: filesize:1069, iovcnt:2, write:1198 bytes
+2021-06-05 23:36:39.558347 [debug]: filesize:7082, iovcnt:2, write:7211 bytes
+2021-06-05 23:36:39.562401 [debug]: /images/profile-image.jpg
+2021-06-05 23:36:39.585503 [debug]: file path /home/lm/MyWebServer/resources//images/profile-image.jpg
+2021-06-05 23:36:39.587141 [debug]: filesize:44677, iovcnt:2, write:44801 bytes
+2021-06-05 23:36:39.833085 [debug]: /css/bootstrap.min.css.map
+2021-06-05 23:36:39.836034 [debug]: file path /home/lm/MyWebServer/resources//404.html
+2021-06-05 23:36:39.837965 [debug]: filesize:3042, iovcnt:2, write:3171 bytes
+2021-06-05 23:37:16.680886 [debug]: /picture.html
+2021-06-05 23:37:16.682339 [debug]: file path /home/lm/MyWebServer/resources//picture.html
+2021-06-05 23:37:16.692662 [debug]: filesize:3694, iovcnt:2, write:3816 bytes
+2021-06-05 23:37:16.848339 [debug]: /css/bootstrap.min.css
+2021-06-05 23:37:16.848443 [debug]: file path /home/lm/MyWebServer/resources//css/bootstrap.min.css
+2021-06-05 23:37:16.848477 [debug]: filesize:121260, iovcnt:2, write:121384 bytes
+2021-06-05 23:37:16.850672 [debug]: /css/animate.css
+2021-06-05 23:37:16.860734 [debug]: file path /home/lm/MyWebServer/resources//css/animate.css
+2021-06-05 23:37:16.860799 [debug]: filesize:72922, iovcnt:2, write:73045 bytes
+2021-06-05 23:37:16.862748 [debug]: /css/style.css
+2021-06-05 23:37:16.862847 [debug]: file path /home/lm/MyWebServer/resources//css/style.css
+2021-06-05 23:37:16.862881 [debug]: filesize:9815, iovcnt:2, write:9937 bytes
+2021-06-05 23:37:16.864980 [debug]: /css/magnific-popup.css
+2021-06-05 23:37:16.866224 [debug]: file path /home/lm/MyWebServer/resources//css/magnific-popup.css
+2021-06-05 23:37:16.888352 [debug]: filesize:6951, iovcnt:2, write:7073 bytes
+2021-06-05 23:37:16.888582 [debug]: /css/font-awesome.min.css
+2021-06-05 23:37:16.888644 [debug]: file path /home/lm/MyWebServer/resources//css/font-awesome.min.css
+2021-06-05 23:37:16.888667 [debug]: filesize:27392, iovcnt:2, write:27515 bytes
+2021-06-05 23:37:17.023023 [debug]: /js/jquery.js
+2021-06-05 23:37:17.023165 [debug]: file path /home/lm/MyWebServer/resources//js/jquery.js
+2021-06-05 23:37:17.023200 [debug]: filesize:85658, iovcnt:2, write:85788 bytes
+2021-06-05 23:37:17.027587 [debug]: /js/bootstrap.min.js
+2021-06-05 23:37:17.027682 [debug]: file path /home/lm/MyWebServer/resources//js/bootstrap.min.js
+2021-06-05 23:37:17.027715 [debug]: filesize:36868, iovcnt:2, write:36998 bytes
+2021-06-05 23:37:17.196896 [debug]: /js/smoothscroll.js
+2021-06-05 23:37:17.285105 [debug]: /js/jquery.magnific-popup.min.js
+2021-06-05 23:37:17.434237 [debug]: file path /home/lm/MyWebServer/resources//js/jquery.magnific-popup.min.js
+2021-06-05 23:37:17.434328 [debug]: filesize:20932, iovcnt:2, write:21062 bytes
+2021-06-05 23:37:17.434652 [debug]: /js/magnific-popup-options.js
+2021-06-05 23:37:17.446342 [debug]: file path /home/lm/MyWebServer/resources//js/smoothscroll.js
+2021-06-05 23:37:17.446488 [debug]: filesize:4474, iovcnt:2, write:4603 bytes
+2021-06-05 23:37:17.482153 [debug]: /js/custom.js
+2021-06-05 23:37:17.547855 [debug]: /images/profile-image.jpg
+2021-06-05 23:37:17.547989 [debug]: file path /home/lm/MyWebServer/resources//js/custom.js
+2021-06-05 23:37:17.584456 [debug]: file path /home/lm/MyWebServer/resources//js/magnific-popup-options.js
+2021-06-05 23:37:17.603514 [debug]: filesize:1047, iovcnt:2, write:1176 bytes
+2021-06-05 23:37:17.603736 [debug]: file path /home/lm/MyWebServer/resources//images/profile-image.jpg
+2021-06-05 23:37:17.603839 [debug]: filesize:44677, iovcnt:2, write:44801 bytes
+2021-06-05 23:37:17.603895 [debug]: filesize:1069, iovcnt:2, write:1198 bytes
+2021-06-05 23:37:17.610572 [debug]: /js/wow.min.js
+2021-06-05 23:37:17.766841 [debug]: /images/instagram-image3.jpg
+2021-06-05 23:37:17.771025 [debug]: file path /home/lm/MyWebServer/resources//images/instagram-image3.jpg
+2021-06-05 23:37:17.780103 [debug]: file path /home/lm/MyWebServer/resources//js/wow.min.js
+2021-06-05 23:37:17.788697 [debug]: filesize:7082, iovcnt:2, write:7211 bytes
+2021-06-05 23:37:18.164684 [debug]: /images/instagram-image4.jpg
+2021-06-05 23:37:18.165100 [debug]: file path /home/lm/MyWebServer/resources//images/instagram-image4.jpg
+2021-06-05 23:37:18.224291 [debug]: filesize:103418, iovcnt:2, write:103543 bytes
+2021-06-05 23:37:18.225126 [debug]: /images/instagram-image1.jpg
+2021-06-05 23:37:18.225567 [debug]: file path /home/lm/MyWebServer/resources//images/instagram-image1.jpg
+2021-06-05 23:37:18.494954 [debug]: filesize:75836, iovcnt:2, write:75960 bytes
+2021-06-05 23:37:18.495387 [debug]: filesize:59528, iovcnt:2, write:59652 bytes
+2021-06-05 23:37:18.609809 [debug]: /css/bootstrap.min.css.map
+2021-06-05 23:37:18.610177 [debug]: file path /home/lm/MyWebServer/resources//404.html
+2021-06-05 23:37:18.610397 [debug]: filesize:3042, iovcnt:2, write:3171 bytes
+2021-06-05 23:37:18.623921 [debug]: /images/instagram-image2.jpg
+2021-06-05 23:37:18.626771 [debug]: file path /home/lm/MyWebServer/resources//images/instagram-image2.jpg
+2021-06-05 23:37:18.682805 [debug]: filesize:67313, iovcnt:2, write:67437 bytes
+2021-06-05 23:37:24.573251 [debug]: /login.html
+2021-06-05 23:37:24.576581 [debug]: file path /home/lm/MyWebServer/resources//login.html
+2021-06-05 23:37:24.578298 [debug]: filesize:3487, iovcnt:2, write:3609 bytes
+2021-06-05 23:37:24.816227 [debug]: /css/animate.css
+2021-06-05 23:37:24.823104 [debug]: /css/magnific-popup.css
+2021-06-05 23:37:24.825012 [debug]: /css/font-awesome.min.css
+2021-06-05 23:37:24.882455 [debug]: /css/bootstrap.min.css
+2021-06-05 23:37:24.889411 [debug]: file path /home/lm/MyWebServer/resources//css/animate.css
+2021-06-05 23:37:24.906996 [debug]: /css/style.css
+2021-06-05 23:37:24.907081 [debug]: /js/jquery.js
+2021-06-05 23:37:24.924705 [debug]: file path /home/lm/MyWebServer/resources//css/magnific-popup.css
+2021-06-05 23:37:24.924783 [debug]: file path /home/lm/MyWebServer/resources//css/font-awesome.min.css
+2021-06-05 23:37:24.965003 [debug]: file path /home/lm/MyWebServer/resources//css/bootstrap.min.css
+2021-06-05 23:37:24.970733 [debug]: filesize:6951, iovcnt:2, write:7073 bytes
+2021-06-05 23:37:24.971701 [debug]: filesize:27392, iovcnt:2, write:27515 bytes
+2021-06-05 23:37:24.975732 [debug]: filesize:121260, iovcnt:2, write:121384 bytes
+2021-06-05 23:37:24.979864 [debug]: filesize:72922, iovcnt:2, write:73045 bytes
+2021-06-05 23:37:24.979955 [debug]: file path /home/lm/MyWebServer/resources//js/jquery.js
+2021-06-05 23:37:24.979985 [debug]: filesize:85658, iovcnt:2, write:85788 bytes
+2021-06-05 23:37:25.027456 [debug]: file path /home/lm/MyWebServer/resources//css/style.css
+2021-06-05 23:37:25.027572 [debug]: filesize:9815, iovcnt:2, write:9937 bytes
+2021-06-05 23:37:25.175344 [debug]: /js/smoothscroll.js
+2021-06-05 23:37:25.180326 [debug]: file path /home/lm/MyWebServer/resources//js/smoothscroll.js
+2021-06-05 23:37:25.180370 [debug]: filesize:4474, iovcnt:2, write:4603 bytes
+2021-06-05 23:37:25.180404 [debug]: /js/bootstrap.min.js
+2021-06-05 23:37:25.180439 [debug]: file path /home/lm/MyWebServer/resources//js/bootstrap.min.js
+2021-06-05 23:37:25.180459 [debug]: filesize:36868, iovcnt:2, write:36998 bytes
+2021-06-05 23:37:25.180494 [debug]: /js/jquery.magnific-popup.min.js
+2021-06-05 23:37:25.189981 [debug]: file path /home/lm/MyWebServer/resources//js/jquery.magnific-popup.min.js
+2021-06-05 23:37:25.190203 [debug]: filesize:20932, iovcnt:2, write:21062 bytes
+2021-06-05 23:37:25.285851 [debug]: /js/wow.min.js
+2021-06-05 23:37:25.286017 [debug]: file path /home/lm/MyWebServer/resources//js/wow.min.js
+2021-06-05 23:37:25.286053 [debug]: filesize:7082, iovcnt:2, write:7211 bytes
+2021-06-05 23:37:25.289563 [debug]: /js/custom.js
+2021-06-05 23:37:25.289669 [debug]: file path /home/lm/MyWebServer/resources//js/custom.js
+2021-06-05 23:37:25.289698 [debug]: filesize:1047, iovcnt:2, write:1176 bytes
+2021-06-05 23:37:25.307575 [debug]: /js/magnific-popup-options.js
+2021-06-05 23:37:25.318492 [debug]: file path /home/lm/MyWebServer/resources//js/magnific-popup-options.js
+2021-06-05 23:37:25.318539 [debug]: filesize:1069, iovcnt:2, write:1198 bytes
+2021-06-05 23:37:25.519533 [debug]: /css/bootstrap.min.css.map
+2021-06-05 23:37:25.521416 [debug]: file path /home/lm/MyWebServer/resources//404.html
+2021-06-05 23:37:25.521476 [debug]: filesize:3042, iovcnt:2, write:3171 bytes
+2021-06-05 23:37:35.946558 [debug]: Tag:1
+2021-06-05 23:37:35.946691 [debug]: Verify name:lm pwd:lm
+2021-06-05 23:37:35.946739 [debug]: SELECT username, password FROM user WHERE username='lm' LIMIT 1
+2021-06-05 23:37:36.018155 [debug]: MYSQL ROW: lm lm
+2021-06-05 23:37:36.018278 [debug]: UserVerify success!!
+2021-06-05 23:37:36.018314 [info] : success!
+2021-06-05 23:37:36.018343 [debug]: Body:username=lm&password=lm len:23
+2021-06-05 23:37:36.018373 [debug]: /welcome.html
+2021-06-05 23:37:36.018459 [debug]: file path /home/lm/MyWebServer/resources//welcome.html
+2021-06-05 23:37:36.018840 [debug]: filesize:3148, iovcnt:2, write:3270 bytes
+2021-06-05 23:37:36.210723 [debug]: /css/animate.css
+2021-06-05 23:37:36.214301 [debug]: file path /home/lm/MyWebServer/resources//css/animate.css
+2021-06-05 23:37:36.214349 [debug]: filesize:72922, iovcnt:2, write:73045 bytes
+2021-06-05 23:37:36.218036 [debug]: /css/magnific-popup.css
+2021-06-05 23:37:36.218256 [debug]: file path /home/lm/MyWebServer/resources//css/magnific-popup.css
+2021-06-05 23:37:36.218303 [debug]: filesize:6951, iovcnt:2, write:7073 bytes
+2021-06-05 23:37:36.219301 [debug]: /css/font-awesome.min.css
+2021-06-05 23:37:36.221363 [debug]: file path /home/lm/MyWebServer/resources//css/font-awesome.min.css
+2021-06-05 23:37:36.221547 [debug]: filesize:27392, iovcnt:2, write:27515 bytes
+2021-06-05 23:37:36.223402 [debug]: /css/style.css
+2021-06-05 23:37:36.227004 [debug]: file path /home/lm/MyWebServer/resources//css/style.css
+2021-06-05 23:37:36.227780 [debug]: filesize:9815, iovcnt:2, write:9937 bytes
+2021-06-05 23:37:36.229407 [debug]: /css/bootstrap.min.css
+2021-06-05 23:37:36.233701 [debug]: file path /home/lm/MyWebServer/resources//css/bootstrap.min.css
+2021-06-05 23:37:36.233913 [debug]: filesize:121260, iovcnt:2, write:121384 bytes
+2021-06-05 23:37:36.434805 [debug]: /js/bootstrap.min.js
+2021-06-05 23:37:36.435496 [debug]: file path /home/lm/MyWebServer/resources//js/bootstrap.min.js
+2021-06-05 23:37:36.435872 [debug]: filesize:36868, iovcnt:2, write:36998 bytes
+2021-06-05 23:37:36.464016 [debug]: /js/smoothscroll.js
+2021-06-05 23:37:36.464129 [debug]: file path /home/lm/MyWebServer/resources//js/smoothscroll.js
+2021-06-05 23:37:36.464161 [debug]: filesize:4474, iovcnt:2, write:4603 bytes
+2021-06-05 23:37:36.465941 [debug]: /js/jquery.js
+2021-06-05 23:37:36.466010 [debug]: file path /home/lm/MyWebServer/resources//js/jquery.js
+2021-06-05 23:37:36.466037 [debug]: filesize:85658, iovcnt:2, write:85788 bytes
+2021-06-05 23:37:36.628501 [debug]: /js/magnific-popup-options.js
+2021-06-05 23:37:36.628722 [debug]: file path /home/lm/MyWebServer/resources//js/magnific-popup-options.js
+2021-06-05 23:37:36.628759 [debug]: filesize:1069, iovcnt:2, write:1198 bytes
+2021-06-05 23:37:37.062669 [debug]: /js/jquery.magnific-popup.min.js
+2021-06-05 23:37:37.062850 [debug]: file path /home/lm/MyWebServer/resources//js/jquery.magnific-popup.min.js
+2021-06-05 23:37:37.063112 [debug]: filesize:20932, iovcnt:2, write:21062 bytes
+2021-06-05 23:37:37.064981 [debug]: /js/custom.js
+2021-06-05 23:37:37.065247 [debug]: file path /home/lm/MyWebServer/resources//js/custom.js
+2021-06-05 23:37:37.065794 [debug]: filesize:1047, iovcnt:2, write:1176 bytes
+2021-06-05 23:37:37.071174 [debug]: /images/profile-image.jpg
+2021-06-05 23:37:37.071273 [debug]: file path /home/lm/MyWebServer/resources//images/profile-image.jpg
+2021-06-05 23:37:37.071305 [debug]: filesize:44677, iovcnt:2, write:44801 bytes
+2021-06-05 23:37:37.071365 [debug]: /js/wow.min.js
+2021-06-05 23:37:37.071449 [debug]: file path /home/lm/MyWebServer/resources//js/wow.min.js
+2021-06-05 23:37:37.071502 [debug]: filesize:7082, iovcnt:2, write:7211 bytes
+2021-06-05 23:37:37.275375 [debug]: /css/bootstrap.min.css.map
+2021-06-05 23:37:37.275924 [debug]: file path /home/lm/MyWebServer/resources//404.html
+2021-06-05 23:37:37.276109 [debug]: filesize:3042, iovcnt:2, write:3171 bytes
+2021-06-05 23:38:36.273105 [info] : Client[23] quit!
+2021-06-05 23:38:36.273445 [info] : Client[23](192.168.3.1:34356) quit, UserCount:5
+2021-06-05 23:38:36.552385 [info] : Client[22] quit!
+2021-06-05 23:38:36.552818 [info] : Client[22](192.168.3.1:34100) quit, UserCount:4
+2021-06-05 23:38:36.800699 [info] : Client[21] quit!
+2021-06-05 23:38:36.801139 [info] : Client[21](192.168.3.1:33844) quit, UserCount:3
+2021-06-05 23:38:37.070073 [info] : Client[18] quit!
+2021-06-05 23:38:37.070701 [info] : Client[18](192.168.3.1:33076) quit, UserCount:2
+2021-06-05 23:38:37.070742 [info] : Client[20] quit!
+2021-06-05 23:38:37.071068 [info] : Client[20](192.168.3.1:33588) quit, UserCount:1
+2021-06-05 23:38:37.276502 [info] : Client[19] quit!
+2021-06-05 23:38:37.277338 [info] : Client[19](192.168.3.1:33332) quit, UserCount:0
+2021-06-05 23:40:06.418737 [info] : Client[18](192.168.3.1:17717) in, userCount:1
+2021-06-05 23:40:06.418881 [info] : Client[18] in!
+2021-06-05 23:40:06.419004 [info] : Client[19](192.168.3.1:17973) in, userCount:2
+2021-06-05 23:40:06.419162 [info] : Client[19] in!
+2021-06-05 23:40:06.427481 [debug]: /register.html
+2021-06-05 23:40:06.427687 [debug]: file path /home/lm/MyWebServer/resources//register.html
+2021-06-05 23:40:06.429917 [debug]: filesize:3490, iovcnt:2, write:3612 bytes
+2021-06-05 23:40:06.670595 [debug]: /css/bootstrap.min.css
+2021-06-05 23:40:06.716591 [debug]: file path /home/lm/MyWebServer/resources//css/bootstrap.min.css
+2021-06-05 23:40:06.716640 [debug]: filesize:121260, iovcnt:2, write:121384 bytes
+2021-06-05 23:40:06.717466 [debug]: /css/animate.css
+2021-06-05 23:40:06.717535 [debug]: file path /home/lm/MyWebServer/resources//css/animate.css
+2021-06-05 23:40:06.717568 [debug]: filesize:72922, iovcnt:2, write:73045 bytes
+2021-06-05 23:40:06.718883 [info] : Client[20](192.168.3.1:18229) in, userCount:3
+2021-06-05 23:40:06.719005 [info] : Client[20] in!
+2021-06-05 23:40:06.719066 [info] : Client[21](192.168.3.1:18485) in, userCount:4
+2021-06-05 23:40:06.719104 [info] : Client[21] in!
+2021-06-05 23:40:06.719140 [info] : Client[22](192.168.3.1:18741) in, userCount:5
+2021-06-05 23:40:06.719175 [info] : Client[22] in!
+2021-06-05 23:40:06.719211 [info] : Client[23](192.168.3.1:18997) in, userCount:6
+2021-06-05 23:40:06.719245 [info] : Client[23] in!
+2021-06-05 23:40:06.737634 [debug]: /css/magnific-popup.css
+2021-06-05 23:40:06.753635 [debug]: file path /home/lm/MyWebServer/resources//css/magnific-popup.css
+2021-06-05 23:40:06.754069 [debug]: filesize:6951, iovcnt:2, write:7073 bytes
+2021-06-05 23:40:06.756946 [debug]: /js/jquery.js
+2021-06-05 23:40:06.757064 [debug]: file path /home/lm/MyWebServer/resources//js/jquery.js
+2021-06-05 23:40:06.757101 [debug]: filesize:85658, iovcnt:2, write:85788 bytes
+2021-06-05 23:40:06.796333 [debug]: /css/font-awesome.min.css
+2021-06-05 23:40:06.815386 [debug]: file path /home/lm/MyWebServer/resources//css/font-awesome.min.css
+2021-06-05 23:40:06.815447 [debug]: filesize:27392, iovcnt:2, write:27515 bytes
+2021-06-05 23:40:06.815960 [debug]: /css/style.css
+2021-06-05 23:40:06.816021 [debug]: file path /home/lm/MyWebServer/resources//css/style.css
+2021-06-05 23:40:06.816049 [debug]: filesize:9815, iovcnt:2, write:9937 bytes
+2021-06-05 23:40:06.861189 [debug]: /js/smoothscroll.js
+2021-06-05 23:40:06.949979 [debug]: file path /home/lm/MyWebServer/resources//js/smoothscroll.js
+2021-06-05 23:40:06.950021 [debug]: filesize:4474, iovcnt:2, write:4603 bytes
+2021-06-05 23:40:06.988908 [debug]: /js/bootstrap.min.js
+2021-06-05 23:40:06.996359 [debug]: /js/magnific-popup-options.js
+2021-06-05 23:40:07.001567 [debug]: /js/wow.min.js
+2021-06-05 23:40:07.002075 [debug]: /js/custom.js
+2021-06-05 23:40:07.034440 [debug]: file path /home/lm/MyWebServer/resources//js/bootstrap.min.js
+2021-06-05 23:40:07.040221 [debug]: file path /home/lm/MyWebServer/resources//js/wow.min.js
+2021-06-05 23:40:07.052999 [debug]: file path /home/lm/MyWebServer/resources//js/magnific-popup-options.js
+2021-06-05 23:40:07.054985 [debug]: filesize:7082, iovcnt:2, write:7211 bytes
+2021-06-05 23:40:07.055051 [debug]: file path /home/lm/MyWebServer/resources//js/custom.js
+2021-06-05 23:40:07.055067 [debug]: /js/jquery.magnific-popup.min.js
+2021-06-05 23:40:07.061977 [debug]: filesize:36868, iovcnt:2, write:36998 bytes
+2021-06-05 23:40:07.095532 [debug]: filesize:1069, iovcnt:2, write:1198 bytes
+2021-06-05 23:40:07.095592 [debug]: filesize:1047, iovcnt:2, write:1176 bytes
+2021-06-05 23:40:07.095788 [debug]: file path /home/lm/MyWebServer/resources//js/jquery.magnific-popup.min.js
+2021-06-05 23:40:07.095818 [debug]: filesize:20932, iovcnt:2, write:21062 bytes
+2021-06-05 23:40:07.256110 [debug]: /css/bootstrap.min.css.map
+2021-06-05 23:40:07.256277 [debug]: file path /home/lm/MyWebServer/resources//404.html
+2021-06-05 23:40:07.256311 [debug]: filesize:3042, iovcnt:2, write:3171 bytes
+2021-06-05 23:40:16.745234 [debug]: Tag:0
+2021-06-05 23:40:16.745414 [debug]: Verify name:haha pwd:haha
+2021-06-05 23:40:16.745443 [debug]: SELECT username, password FROM user WHERE username='haha' LIMIT 1
+2021-06-05 23:40:16.764655 [debug]: regirster!
+2021-06-05 23:40:16.764741 [debug]: INSERT INTO user(username, password) VALUES('haha','haha')
+2021-06-05 23:40:16.811552 [debug]: UserVerify success!!
+2021-06-05 23:40:16.811907 [info] : success!
+2021-06-05 23:40:16.811945 [debug]: Body:username=haha&password=haha len:27
+2021-06-05 23:40:16.811958 [debug]: /welcome.html
+2021-06-05 23:40:16.812027 [debug]: file path /home/lm/MyWebServer/resources//welcome.html
+2021-06-05 23:40:16.812055 [debug]: filesize:3148, iovcnt:2, write:3270 bytes
+2021-06-05 23:40:17.080896 [debug]: /css/bootstrap.min.css
+2021-06-05 23:40:17.109326 [debug]: file path /home/lm/MyWebServer/resources//css/bootstrap.min.css
+2021-06-05 23:40:17.110006 [debug]: filesize:121260, iovcnt:2, write:121384 bytes
+2021-06-05 23:40:17.124506 [debug]: /css/font-awesome.min.css
+2021-06-05 23:40:17.125948 [debug]: /css/magnific-popup.css
+2021-06-05 23:40:17.126039 [debug]: file path /home/lm/MyWebServer/resources//css/font-awesome.min.css
+2021-06-05 23:40:17.126103 [debug]: file path /home/lm/MyWebServer/resources//css/magnific-popup.css
+2021-06-05 23:40:17.126128 [debug]: filesize:27392, iovcnt:2, write:27515 bytes
+2021-06-05 23:40:17.126156 [debug]: filesize:6951, iovcnt:2, write:7073 bytes
+2021-06-05 23:40:17.127817 [debug]: /css/animate.css
+2021-06-05 23:40:17.127892 [debug]: file path /home/lm/MyWebServer/resources//css/animate.css
+2021-06-05 23:40:17.127918 [debug]: filesize:72922, iovcnt:2, write:73045 bytes
+2021-06-05 23:40:17.129753 [debug]: /css/style.css
+2021-06-05 23:40:17.218579 [debug]: file path /home/lm/MyWebServer/resources//css/style.css
+2021-06-05 23:40:17.219434 [debug]: filesize:9815, iovcnt:2, write:9937 bytes
+2021-06-05 23:40:17.241564 [debug]: /js/jquery.js
+2021-06-05 23:40:17.241787 [debug]: file path /home/lm/MyWebServer/resources//js/jquery.js
+2021-06-05 23:40:17.241826 [debug]: filesize:85658, iovcnt:2, write:85788 bytes
+2021-06-05 23:40:17.283774 [debug]: /js/bootstrap.min.js
+2021-06-05 23:40:17.285366 [debug]: file path /home/lm/MyWebServer/resources//js/bootstrap.min.js
+2021-06-05 23:40:17.285455 [debug]: filesize:36868, iovcnt:2, write:36998 bytes
+2021-06-05 23:40:17.291265 [debug]: /js/smoothscroll.js
+2021-06-05 23:40:17.291382 [debug]: file path /home/lm/MyWebServer/resources//js/smoothscroll.js
+2021-06-05 23:40:17.291415 [debug]: filesize:4474, iovcnt:2, write:4603 bytes
+2021-06-05 23:40:17.342916 [debug]: /js/jquery.magnific-popup.min.js
+2021-06-05 23:40:17.343109 [debug]: file path /home/lm/MyWebServer/resources//js/jquery.magnific-popup.min.js
+2021-06-05 23:40:17.343189 [debug]: filesize:20932, iovcnt:2, write:21062 bytes
+2021-06-05 23:40:17.344455 [debug]: /js/magnific-popup-options.js
+2021-06-05 23:40:17.345243 [debug]: file path /home/lm/MyWebServer/resources//js/magnific-popup-options.js
+2021-06-05 23:40:17.345322 [debug]: filesize:1069, iovcnt:2, write:1198 bytes
+2021-06-05 23:40:17.375690 [debug]: /js/wow.min.js
+2021-06-05 23:40:17.377258 [debug]: file path /home/lm/MyWebServer/resources//js/wow.min.js
+2021-06-05 23:40:17.378413 [debug]: filesize:7082, iovcnt:2, write:7211 bytes
+2021-06-05 23:40:17.465035 [debug]: /js/custom.js
+2021-06-05 23:40:17.469879 [debug]: file path /home/lm/MyWebServer/resources//js/custom.js
+2021-06-05 23:40:17.469977 [debug]: filesize:1047, iovcnt:2, write:1176 bytes
+2021-06-05 23:40:17.473315 [debug]: /images/profile-image.jpg
+2021-06-05 23:40:17.476081 [debug]: file path /home/lm/MyWebServer/resources//images/profile-image.jpg
+2021-06-05 23:40:17.476181 [debug]: filesize:44677, iovcnt:2, write:44801 bytes
+2021-06-05 23:40:17.750596 [debug]: /css/bootstrap.min.css.map
+2021-06-05 23:40:17.750980 [debug]: file path /home/lm/MyWebServer/resources//404.html
+2021-06-05 23:40:17.752198 [debug]: filesize:3042, iovcnt:2, write:3171 bytes
+2021-06-05 23:40:40.418974 [info] : Client[23] quit!
+2021-06-05 23:40:40.419304 [info] : Client[23](192.168.3.1:18997) quit, UserCount:5
+2021-06-05 23:40:40.419336 [info] : Client[20] quit!
+2021-06-05 23:40:40.419595 [info] : Client[20](192.168.3.1:18229) quit, UserCount:4
+2021-06-05 23:40:40.419620 [info] : Client[22] quit!
+2021-06-05 23:40:40.419873 [info] : Client[22](192.168.3.1:18741) quit, UserCount:3
+2021-06-05 23:40:40.419900 [info] : Client[18] quit!
+2021-06-05 23:40:40.420159 [info] : Client[18](192.168.3.1:17717) quit, UserCount:2
+2021-06-05 23:40:40.420184 [info] : Client[19] quit!
+2021-06-05 23:40:40.420415 [info] : Client[19](192.168.3.1:17973) quit, UserCount:1
+2021-06-05 23:40:40.420452 [info] : Client[21] quit!
+2021-06-05 23:40:40.420682 [info] : Client[21](192.168.3.1:18485) quit, UserCount:0
+2021-06-05 23:40:59.202588 [info] : Client[18](192.168.3.1:32565) in, userCount:1
+2021-06-05 23:40:59.203380 [info] : Client[18] in!
+2021-06-05 23:40:59.203448 [info] : Client[19](192.168.3.1:32821) in, userCount:2
+2021-06-05 23:40:59.203483 [info] : Client[19] in!
+2021-06-05 23:40:59.207954 [debug]: /picture.html
+2021-06-05 23:40:59.208035 [debug]: file path /home/lm/MyWebServer/resources//picture.html
+2021-06-05 23:40:59.208063 [debug]: filesize:3694, iovcnt:2, write:3816 bytes
+2021-06-05 23:40:59.458967 [debug]: /css/bootstrap.min.css
+2021-06-05 23:40:59.460252 [debug]: file path /home/lm/MyWebServer/resources//css/bootstrap.min.css
+2021-06-05 23:40:59.460342 [debug]: filesize:121260, iovcnt:2, write:121384 bytes
+2021-06-05 23:40:59.476749 [debug]: /css/animate.css
+2021-06-05 23:40:59.483438 [debug]: file path /home/lm/MyWebServer/resources//css/animate.css
+2021-06-05 23:40:59.483859 [debug]: filesize:72922, iovcnt:2, write:73045 bytes
+2021-06-05 23:40:59.489944 [info] : Client[20](192.168.3.1:33077) in, userCount:3
+2021-06-05 23:40:59.490002 [info] : Client[20] in!
+2021-06-05 23:40:59.490020 [info] : Client[21](192.168.3.1:33333) in, userCount:4
+2021-06-05 23:40:59.490033 [info] : Client[21] in!
+2021-06-05 23:40:59.490046 [info] : Client[22](192.168.3.1:33589) in, userCount:5
+2021-06-05 23:40:59.490058 [info] : Client[22] in!
+2021-06-05 23:40:59.492071 [debug]: /css/magnific-popup.css
+2021-06-05 23:40:59.529042 [debug]: file path /home/lm/MyWebServer/resources//css/magnific-popup.css
+2021-06-05 23:40:59.529214 [debug]: filesize:6951, iovcnt:2, write:7073 bytes
+2021-06-05 23:40:59.534692 [debug]: /css/font-awesome.min.css
+2021-06-05 23:40:59.534827 [debug]: file path /home/lm/MyWebServer/resources//css/font-awesome.min.css
+2021-06-05 23:40:59.534893 [debug]: filesize:27392, iovcnt:2, write:27515 bytes
+2021-06-05 23:40:59.583139 [debug]: /css/style.css
+2021-06-05 23:40:59.583278 [debug]: file path /home/lm/MyWebServer/resources//css/style.css
+2021-06-05 23:40:59.583405 [debug]: filesize:9815, iovcnt:2, write:9937 bytes
+2021-06-05 23:40:59.748655 [info] : Client[23](192.168.3.1:34101) in, userCount:6
+2021-06-05 23:40:59.748847 [info] : Client[23] in!
+2021-06-05 23:40:59.758491 [debug]: /js/jquery.js
+2021-06-05 23:40:59.758603 [debug]: file path /home/lm/MyWebServer/resources//js/jquery.js
+2021-06-05 23:40:59.758636 [debug]: filesize:85658, iovcnt:2, write:85788 bytes
+2021-06-05 23:40:59.922291 [debug]: /js/bootstrap.min.js
+2021-06-05 23:40:59.922505 [debug]: file path /home/lm/MyWebServer/resources//js/bootstrap.min.js
+2021-06-05 23:40:59.922574 [debug]: filesize:36868, iovcnt:2, write:36998 bytes
+2021-06-05 23:40:59.924583 [debug]: /js/smoothscroll.js
+2021-06-05 23:40:59.926712 [debug]: file path /home/lm/MyWebServer/resources//js/smoothscroll.js
+2021-06-05 23:40:59.926804 [debug]: filesize:4474, iovcnt:2, write:4603 bytes
+2021-06-05 23:41:00.492177 [debug]: /js/jquery.magnific-popup.min.js
+2021-06-05 23:41:00.492301 [debug]: file path /home/lm/MyWebServer/resources//js/jquery.magnific-popup.min.js
+2021-06-05 23:41:00.492331 [debug]: filesize:20932, iovcnt:2, write:21062 bytes
+2021-06-05 23:41:00.494467 [debug]: /js/magnific-popup-options.js
+2021-06-05 23:41:00.494713 [debug]: file path /home/lm/MyWebServer/resources//js/magnific-popup-options.js
+2021-06-05 23:41:00.494781 [debug]: filesize:1069, iovcnt:2, write:1198 bytes
+2021-06-05 23:41:00.521197 [debug]: /js/custom.js
+2021-06-05 23:41:00.521370 [debug]: file path /home/lm/MyWebServer/resources//js/custom.js
+2021-06-05 23:41:00.527969 [debug]: filesize:1047, iovcnt:2, write:1176 bytes
+2021-06-05 23:41:00.556344 [debug]: /images/profile-image.jpg
+2021-06-05 23:41:00.590370 [debug]: /images/instagram-image1.jpg
+2021-06-05 23:41:00.816513 [debug]: file path /home/lm/MyWebServer/resources//images/instagram-image1.jpg
+2021-06-05 23:41:00.818745 [debug]: /images/instagram-image2.jpg
+2021-06-05 23:41:00.820402 [debug]: /js/wow.min.js
+2021-06-05 23:41:00.830903 [debug]: file path /home/lm/MyWebServer/resources//images/instagram-image2.jpg
+2021-06-05 23:41:00.831031 [debug]: file path /home/lm/MyWebServer/resources//js/wow.min.js
+2021-06-05 23:41:00.831070 [debug]: filesize:75836, iovcnt:2, write:75960 bytes
+2021-06-05 23:41:00.831544 [debug]: filesize:67313, iovcnt:2, write:67437 bytes
+2021-06-05 23:41:00.831634 [debug]: filesize:7082, iovcnt:2, write:7211 bytes
+2021-06-05 23:41:00.832606 [debug]: file path /home/lm/MyWebServer/resources//images/profile-image.jpg
+2021-06-05 23:41:00.832686 [debug]: filesize:44677, iovcnt:2, write:44801 bytes
+2021-06-05 23:41:01.032566 [debug]: /images/instagram-image3.jpg
+2021-06-05 23:41:01.035835 [debug]: /css/bootstrap.min.css.map
+2021-06-05 23:41:01.035939 [debug]: file path /home/lm/MyWebServer/resources//404.html
+2021-06-05 23:41:01.035969 [debug]: filesize:3042, iovcnt:2, write:3171 bytes
+2021-06-05 23:41:01.036003 [debug]: /images/instagram-image4.jpg
+2021-06-05 23:41:01.036098 [debug]: file path /home/lm/MyWebServer/resources//images/instagram-image4.jpg
+2021-06-05 23:41:01.036137 [debug]: filesize:103418, iovcnt:2, write:103543 bytes
+2021-06-05 23:41:01.081790 [debug]: file path /home/lm/MyWebServer/resources//images/instagram-image3.jpg
+2021-06-05 23:41:01.082646 [debug]: filesize:59528, iovcnt:2, write:59652 bytes
+2021-06-05 23:41:11.362600 [debug]: /video.html
+2021-06-05 23:41:11.362861 [debug]: file path /home/lm/MyWebServer/resources//video.html
+2021-06-05 23:41:11.364352 [debug]: filesize:3415, iovcnt:2, write:3537 bytes
+2021-06-05 23:41:11.585404 [debug]: /css/font-awesome.min.css
+2021-06-05 23:41:11.678316 [debug]: file path /home/lm/MyWebServer/resources//css/font-awesome.min.css
+2021-06-05 23:41:11.678365 [debug]: filesize:27392, iovcnt:2, write:27515 bytes
+2021-06-05 23:41:11.678398 [debug]: /css/magnific-popup.css
+2021-06-05 23:41:11.678547 [debug]: file path /home/lm/MyWebServer/resources//css/magnific-popup.css
+2021-06-05 23:41:11.678578 [debug]: filesize:6951, iovcnt:2, write:7073 bytes
+2021-06-05 23:41:11.678716 [debug]: /css/bootstrap.min.css
+2021-06-05 23:41:11.678749 [debug]: file path /home/lm/MyWebServer/resources//css/bootstrap.min.css
+2021-06-05 23:41:11.678771 [debug]: filesize:121260, iovcnt:2, write:121384 bytes
+2021-06-05 23:41:11.689785 [debug]: /css/animate.css
+2021-06-05 23:41:11.689921 [debug]: file path /home/lm/MyWebServer/resources//css/animate.css
+2021-06-05 23:41:11.689952 [debug]: filesize:72922, iovcnt:2, write:73045 bytes
+2021-06-05 23:41:11.704313 [debug]: /css/style.css
+2021-06-05 23:41:11.704514 [debug]: file path /home/lm/MyWebServer/resources//css/style.css
+2021-06-05 23:41:11.704562 [debug]: filesize:9815, iovcnt:2, write:9937 bytes
+2021-06-05 23:41:11.839831 [debug]: /js/jquery.js
+2021-06-05 23:41:11.870415 [debug]: file path /home/lm/MyWebServer/resources//js/jquery.js
+2021-06-05 23:41:11.870524 [debug]: filesize:85658, iovcnt:2, write:85788 bytes
+2021-06-05 23:41:11.875670 [debug]: /js/bootstrap.min.js
+2021-06-05 23:41:11.876259 [debug]: file path /home/lm/MyWebServer/resources//js/bootstrap.min.js
+2021-06-05 23:41:11.876487 [debug]: filesize:36868, iovcnt:2, write:36998 bytes
+2021-06-05 23:41:11.944920 [debug]: /js/magnific-popup-options.js
+2021-06-05 23:41:12.040705 [debug]: /js/smoothscroll.js
+2021-06-05 23:41:12.090442 [debug]: /js/wow.min.js
+2021-06-05 23:41:12.092623 [debug]: /js/jquery.magnific-popup.min.js
+2021-06-05 23:41:12.093111 [debug]: file path /home/lm/MyWebServer/resources//js/magnific-popup-options.js
+2021-06-05 23:41:12.094709 [debug]: filesize:1069, iovcnt:2, write:1198 bytes
+2021-06-05 23:41:12.140829 [debug]: file path /home/lm/MyWebServer/resources//js/smoothscroll.js
+2021-06-05 23:41:12.140901 [debug]: filesize:4474, iovcnt:2, write:4603 bytes
+2021-06-05 23:41:12.155284 [debug]: file path /home/lm/MyWebServer/resources//js/jquery.magnific-popup.min.js
+2021-06-05 23:41:12.155864 [debug]: filesize:20932, iovcnt:2, write:21062 bytes
+2021-06-05 23:41:12.156918 [debug]: file path /home/lm/MyWebServer/resources//js/wow.min.js
+2021-06-05 23:41:12.156984 [debug]: filesize:7082, iovcnt:2, write:7211 bytes
+2021-06-05 23:41:12.362894 [debug]: /images/profile-image.jpg
+2021-06-05 23:41:12.363071 [debug]: file path /home/lm/MyWebServer/resources//images/profile-image.jpg
+2021-06-05 23:41:12.363110 [debug]: filesize:44677, iovcnt:2, write:44801 bytes
+2021-06-05 23:41:12.387459 [debug]: /js/custom.js
+2021-06-05 23:41:12.387736 [debug]: file path /home/lm/MyWebServer/resources//js/custom.js
+2021-06-05 23:41:12.387810 [debug]: filesize:1047, iovcnt:2, write:1176 bytes
+2021-06-05 23:41:12.426148 [debug]: /video/xxx.mp4
+2021-06-05 23:41:12.428977 [debug]: /css/bootstrap.min.css.map
+2021-06-05 23:41:12.429235 [debug]: file path /home/lm/MyWebServer/resources//404.html
+2021-06-05 23:41:12.429277 [debug]: filesize:3042, iovcnt:2, write:3171 bytes
+2021-06-05 23:41:12.492023 [debug]: file path /home/lm/MyWebServer/resources//video/xxx.mp4
+2021-06-05 23:41:12.572231 [debug]: filesize:39667571, iovcnt:2, write:39667698 bytes
+2021-06-05 23:41:18.552961 [debug]: /index.html
+2021-06-05 23:41:18.554423 [debug]: file path /home/lm/MyWebServer/resources//index.html
+2021-06-05 23:41:18.557566 [debug]: filesize:3041, iovcnt:2, write:3163 bytes
+2021-06-05 23:41:18.653519 [info] : Client[20] quit!
+2021-06-05 23:41:18.690307 [info] : Client[20](192.168.3.1:33077) quit, UserCount:5
+2021-06-05 23:41:18.781107 [debug]: /css/bootstrap.min.css
+2021-06-05 23:41:18.781584 [debug]: file path /home/lm/MyWebServer/resources//css/bootstrap.min.css
+2021-06-05 23:41:18.781667 [debug]: filesize:121260, iovcnt:2, write:121384 bytes
+2021-06-05 23:41:18.785632 [debug]: /css/animate.css
+2021-06-05 23:41:18.785742 [debug]: file path /home/lm/MyWebServer/resources//css/animate.css
+2021-06-05 23:41:18.785775 [debug]: filesize:72922, iovcnt:2, write:73045 bytes
+2021-06-05 23:41:18.789538 [debug]: /css/font-awesome.min.css
+2021-06-05 23:41:18.789642 [debug]: file path /home/lm/MyWebServer/resources//css/font-awesome.min.css
+2021-06-05 23:41:18.789678 [debug]: filesize:27392, iovcnt:2, write:27515 bytes
+2021-06-05 23:41:18.798591 [debug]: /css/style.css
+2021-06-05 23:41:18.798761 [debug]: file path /home/lm/MyWebServer/resources//css/style.css
+2021-06-05 23:41:18.798826 [debug]: filesize:9815, iovcnt:2, write:9937 bytes
+2021-06-05 23:41:18.801906 [debug]: /css/magnific-popup.css
+2021-06-05 23:41:18.802128 [debug]: file path /home/lm/MyWebServer/resources//css/magnific-popup.css
+2021-06-05 23:41:18.802222 [debug]: filesize:6951, iovcnt:2, write:7073 bytes
+2021-06-05 23:41:18.974656 [info] : Client[20](192.168.3.1:38197) in, userCount:6
+2021-06-05 23:41:18.974751 [info] : Client[20] in!
+2021-06-05 23:41:18.976819 [debug]: /js/jquery.js
+2021-06-05 23:41:18.976993 [debug]: file path /home/lm/MyWebServer/resources//js/jquery.js
+2021-06-05 23:41:18.977058 [debug]: filesize:85658, iovcnt:2, write:85788 bytes
+2021-06-05 23:41:18.983424 [debug]: /js/bootstrap.min.js
+2021-06-05 23:41:18.983593 [debug]: file path /home/lm/MyWebServer/resources//js/bootstrap.min.js
+2021-06-05 23:41:18.983659 [debug]: filesize:36868, iovcnt:2, write:36998 bytes
+2021-06-05 23:41:18.985540 [debug]: /js/smoothscroll.js
+2021-06-05 23:41:18.985656 [debug]: file path /home/lm/MyWebServer/resources//js/smoothscroll.js
+2021-06-05 23:41:18.985780 [debug]: filesize:4474, iovcnt:2, write:4603 bytes
+2021-06-05 23:41:18.988072 [debug]: /js/jquery.magnific-popup.min.js
+2021-06-05 23:41:18.988284 [debug]: file path /home/lm/MyWebServer/resources//js/jquery.magnific-popup.min.js
+2021-06-05 23:41:18.988350 [debug]: filesize:20932, iovcnt:2, write:21062 bytes
+2021-06-05 23:41:18.990677 [debug]: /js/magnific-popup-options.js
+2021-06-05 23:41:18.990861 [debug]: file path /home/lm/MyWebServer/resources//js/magnific-popup-options.js
+2021-06-05 23:41:18.990927 [debug]: filesize:1069, iovcnt:2, write:1198 bytes
+2021-06-05 23:41:18.993296 [debug]: /js/wow.min.js
+2021-06-05 23:41:18.993417 [debug]: file path /home/lm/MyWebServer/resources//js/wow.min.js
+2021-06-05 23:41:18.993548 [debug]: filesize:7082, iovcnt:2, write:7211 bytes
+2021-06-05 23:41:19.239742 [debug]: /images/profile-image.jpg
+2021-06-05 23:41:19.239923 [debug]: file path /home/lm/MyWebServer/resources//images/profile-image.jpg
+2021-06-05 23:41:19.239997 [debug]: filesize:44677, iovcnt:2, write:44801 bytes
+2021-06-05 23:41:19.278308 [debug]: /js/custom.js
+2021-06-05 23:41:19.282735 [debug]: file path /home/lm/MyWebServer/resources//js/custom.js
+2021-06-05 23:41:19.282955 [debug]: filesize:1047, iovcnt:2, write:1176 bytes
+2021-06-05 23:41:19.583847 [debug]: /css/bootstrap.min.css.map
+2021-06-05 23:41:19.584059 [debug]: file path /home/lm/MyWebServer/resources//404.html
+2021-06-05 23:41:19.584174 [debug]: filesize:3042, iovcnt:2, write:3171 bytes
+2021-06-05 23:42:19.029801 [info] : Client[21] quit!
+2021-06-05 23:42:19.030271 [info] : Client[21](192.168.3.1:33333) quit, UserCount:5
+2021-06-05 23:42:19.189200 [info] : Client[18] quit!
+2021-06-05 23:42:19.189821 [info] : Client[18](192.168.3.1:32565) quit, UserCount:4
+2021-06-05 23:42:19.240096 [info] : Client[22] quit!
+2021-06-05 23:42:19.240572 [info] : Client[22](192.168.3.1:33589) quit, UserCount:3
+2021-06-05 23:42:19.282949 [info] : Client[20] quit!
+2021-06-05 23:42:19.283370 [info] : Client[20](192.168.3.1:38197) quit, UserCount:2
+2021-06-05 23:42:19.472462 [info] : Client[22] quit!
+2021-06-05 23:42:19.605547 [info] : Client[20] quit!
+2021-06-05 23:43:30.475871 [info] : Client[23] quit!
+2021-06-05 23:43:30.476557 [info] : Client[23](192.168.3.1:34101) quit, UserCount:1
+2021-06-05 23:43:30.477147 [info] : Client[19] quit!
+2021-06-05 23:43:30.484468 [info] : Client[19](192.168.3.1:32821) quit, UserCount:0
+2021-06-05 23:45:18.375194 [info] : ========== Server init ==========
+2021-06-05 23:45:18.375216 [info] : Port:8081, OpenLinger: false
+2021-06-05 23:45:18.375224 [info] : Listen Mode: ET, OpenConn Mode: ET
+2021-06-05 23:45:18.375230 [info] : LogSys level: 0
+2021-06-05 23:45:18.375235 [info] : srcDir: /home/lm/MyWebServer/resources/
+2021-06-05 23:45:18.375262 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2021-06-05 23:45:18.375275 [info] : ========= Server start =========
+2021-06-05 23:45:21.268853 [info] : Client[18](192.168.3.1:29494) in, userCount:1
+2021-06-05 23:45:21.286751 [info] : Client[18] in!
+2021-06-05 23:45:21.291144 [info] : Client[19](192.168.3.1:29750) in, userCount:2
+2021-06-05 23:45:21.291456 [info] : Client[19] in!
+2021-06-05 23:45:21.294864 [debug]: /index.html
+2021-06-05 23:45:21.294997 [debug]: file path /home/lm/MyWebServer/resources//index.html
+2021-06-05 23:45:21.295044 [debug]: filesize:3041, iovcnt:2, write:3163 bytes
+2021-06-05 23:45:21.462744 [debug]: /css/bootstrap.min.css
+2021-06-05 23:45:21.502493 [debug]: file path /home/lm/MyWebServer/resources//css/bootstrap.min.css
+2021-06-05 23:45:21.502787 [info] : Client[20](192.168.3.1:30006) in, userCount:3
+2021-06-05 23:45:21.502919 [info] : Client[20] in!
+2021-06-05 23:45:21.505058 [debug]: /css/animate.css
+2021-06-05 23:45:21.505623 [debug]: filesize:121260, iovcnt:2, write:121384 bytes
+2021-06-05 23:45:21.505647 [info] : Client[22](192.168.3.1:30262) in, userCount:4
+2021-06-05 23:45:21.507395 [info] : Client[22] in!
+2021-06-05 23:45:21.507455 [info] : Client[23](192.168.3.1:30518) in, userCount:5
+2021-06-05 23:45:21.523933 [info] : Client[23] in!
+2021-06-05 23:45:21.506846 [debug]: file path /home/lm/MyWebServer/resources//css/animate.css
+2021-06-05 23:45:21.535767 [debug]: filesize:72922, iovcnt:2, write:73045 bytes
+2021-06-05 23:45:21.557560 [debug]: /css/magnific-popup.css
+2021-06-05 23:45:21.557637 [debug]: file path /home/lm/MyWebServer/resources//css/magnific-popup.css
+2021-06-05 23:45:21.564141 [debug]: /css/font-awesome.min.css
+2021-06-05 23:45:21.564215 [debug]: file path /home/lm/MyWebServer/resources//css/font-awesome.min.css
+2021-06-05 23:45:21.564246 [debug]: filesize:27392, iovcnt:2, write:27515 bytes
+2021-06-05 23:45:21.564380 [debug]: filesize:6951, iovcnt:2, write:7073 bytes
+2021-06-05 23:45:21.564846 [debug]: /css/style.css
+2021-06-05 23:45:21.564916 [debug]: file path /home/lm/MyWebServer/resources//css/style.css
+2021-06-05 23:45:21.564947 [debug]: filesize:9815, iovcnt:2, write:9937 bytes
+2021-06-05 23:45:21.603977 [debug]: /js/bootstrap.min.js
+2021-06-05 23:45:21.608605 [debug]: /js/jquery.js
+2021-06-05 23:45:21.608822 [debug]: file path /home/lm/MyWebServer/resources//js/bootstrap.min.js
+2021-06-05 23:45:21.608854 [debug]: filesize:36868, iovcnt:2, write:36998 bytes
+2021-06-05 23:45:21.611316 [debug]: file path /home/lm/MyWebServer/resources//js/jquery.js
+2021-06-05 23:45:21.611375 [debug]: filesize:85658, iovcnt:2, write:85788 bytes
+2021-06-05 23:45:21.664585 [debug]: /js/smoothscroll.js
+2021-06-05 23:45:21.666532 [debug]: file path /home/lm/MyWebServer/resources//js/smoothscroll.js
+2021-06-05 23:45:21.666582 [debug]: filesize:4474, iovcnt:2, write:4603 bytes
+2021-06-05 23:45:21.687254 [info] : Client[21](192.168.3.1:30774) in, userCount:6
+2021-06-05 23:45:21.688019 [info] : Client[21] in!
+2021-06-05 23:45:21.689813 [debug]: /js/wow.min.js
+2021-06-05 23:45:21.689896 [debug]: file path /home/lm/MyWebServer/resources//js/wow.min.js
+2021-06-05 23:45:21.689921 [debug]: filesize:7082, iovcnt:2, write:7211 bytes
+2021-06-05 23:45:21.702039 [debug]: /js/jquery.magnific-popup.min.js
+2021-06-05 23:45:21.691434 [debug]: /js/custom.js
+2021-06-05 23:45:21.732527 [debug]: /images/profile-image.jpg
+2021-06-05 23:45:21.704868 [debug]: /js/magnific-popup-options.js
+2021-06-05 23:45:21.733105 [debug]: file path /home/lm/MyWebServer/resources//images/profile-image.jpg
+2021-06-05 23:45:21.749639 [debug]: file path /home/lm/MyWebServer/resources//js/magnific-popup-options.js
+2021-06-05 23:45:21.734887 [debug]: file path /home/lm/MyWebServer/resources//js/jquery.magnific-popup.min.js
+2021-06-05 23:45:21.738011 [debug]: file path /home/lm/MyWebServer/resources//js/custom.js
+2021-06-05 23:45:21.752381 [debug]: filesize:1047, iovcnt:2, write:1176 bytes
+2021-06-05 23:45:21.752512 [debug]: filesize:287724, iovcnt:2, write:287849 bytes
+2021-06-05 23:45:21.804230 [debug]: filesize:1069, iovcnt:2, write:1198 bytes
+2021-06-05 23:45:21.810135 [debug]: filesize:20932, iovcnt:2, write:21062 bytes
+2021-06-05 23:45:22.035102 [debug]: /css/bootstrap.min.css.map
+2021-06-05 23:45:22.035919 [debug]: file path /home/lm/MyWebServer/resources//404.html
+2021-06-05 23:45:22.057047 [debug]: filesize:3042, iovcnt:2, write:3171 bytes
+2021-06-05 23:45:22.075211 [debug]: /images/favicon.ico
+2021-06-05 23:45:22.075327 [debug]: file path /home/lm/MyWebServer/resources//images/favicon.ico
+2021-06-05 23:45:22.075356 [debug]: filesize:60990, iovcnt:2, write:61114 bytes
+2021-06-05 23:45:24.625477 [debug]: /picture.html
+2021-06-05 23:45:24.625938 [debug]: file path /home/lm/MyWebServer/resources//picture.html
+2021-06-05 23:45:24.626228 [debug]: filesize:3694, iovcnt:2, write:3816 bytes
+2021-06-05 23:45:24.795276 [debug]: /css/font-awesome.min.css
+2021-06-05 23:45:24.836597 [debug]: /css/style.css
+2021-06-05 23:45:24.837454 [debug]: /css/animate.css
+2021-06-05 23:45:24.850956 [debug]: /css/bootstrap.min.css
+2021-06-05 23:45:24.858772 [debug]: file path /home/lm/MyWebServer/resources//css/font-awesome.min.css
+2021-06-05 23:45:24.859634 [debug]: /css/magnific-popup.css
+2021-06-05 23:45:24.859780 [debug]: file path /home/lm/MyWebServer/resources//css/magnific-popup.css
+2021-06-05 23:45:24.859826 [debug]: file path /home/lm/MyWebServer/resources//css/animate.css
+2021-06-05 23:45:24.859877 [debug]: file path /home/lm/MyWebServer/resources//css/style.css
+2021-06-05 23:45:24.859916 [debug]: file path /home/lm/MyWebServer/resources//css/bootstrap.min.css
+2021-06-05 23:45:24.888600 [debug]: filesize:27392, iovcnt:2, write:27515 bytes
+2021-06-05 23:45:24.896496 [debug]: filesize:72922, iovcnt:2, write:73045 bytes
+2021-06-05 23:45:24.899653 [debug]: filesize:9815, iovcnt:2, write:9937 bytes
+2021-06-05 23:45:24.900135 [debug]: filesize:121260, iovcnt:2, write:121384 bytes
+2021-06-05 23:45:24.900183 [debug]: filesize:6951, iovcnt:2, write:7073 bytes
+2021-06-05 23:45:24.902803 [debug]: /js/jquery.js
+2021-06-05 23:45:24.955416 [debug]: file path /home/lm/MyWebServer/resources//js/jquery.js
+2021-06-05 23:45:24.956555 [debug]: filesize:85658, iovcnt:2, write:85788 bytes
+2021-06-05 23:45:25.068415 [debug]: /js/bootstrap.min.js
+2021-06-05 23:45:25.071030 [debug]: file path /home/lm/MyWebServer/resources//js/bootstrap.min.js
+2021-06-05 23:45:25.071078 [debug]: filesize:36868, iovcnt:2, write:36998 bytes
+2021-06-05 23:45:25.071764 [debug]: /js/smoothscroll.js
+2021-06-05 23:45:25.073016 [debug]: file path /home/lm/MyWebServer/resources//js/smoothscroll.js
+2021-06-05 23:45:25.073915 [debug]: filesize:4474, iovcnt:2, write:4603 bytes
+2021-06-05 23:45:25.135433 [debug]: /js/wow.min.js
+2021-06-05 23:45:25.137235 [debug]: file path /home/lm/MyWebServer/resources//js/wow.min.js
+2021-06-05 23:45:25.137280 [debug]: filesize:7082, iovcnt:2, write:7211 bytes
+2021-06-05 23:45:25.137326 [debug]: /js/custom.js
+2021-06-05 23:45:25.140275 [debug]: /images/profile-image.jpg
+2021-06-05 23:45:25.181099 [debug]: /js/jquery.magnific-popup.min.js
+2021-06-05 23:45:25.181191 [debug]: file path /home/lm/MyWebServer/resources//images/profile-image.jpg
+2021-06-05 23:45:25.183677 [debug]: filesize:287724, iovcnt:2, write:287849 bytes
+2021-06-05 23:45:25.183763 [debug]: file path /home/lm/MyWebServer/resources//js/jquery.magnific-popup.min.js
+2021-06-05 23:45:25.183777 [debug]: file path /home/lm/MyWebServer/resources//js/custom.js
+2021-06-05 23:45:25.183814 [debug]: /js/magnific-popup-options.js
+2021-06-05 23:45:25.192756 [debug]: /images/instagram-image1.jpg
+2021-06-05 23:45:25.244523 [debug]: /images/instagram-image2.jpg
+2021-06-05 23:45:25.244609 [debug]: filesize:20932, iovcnt:2, write:21062 bytes
+2021-06-05 23:45:25.244641 [debug]: file path /home/lm/MyWebServer/resources//js/magnific-popup-options.js
+2021-06-05 23:45:25.246173 [debug]: file path /home/lm/MyWebServer/resources//images/instagram-image1.jpg
+2021-06-05 23:45:25.257765 [debug]: file path /home/lm/MyWebServer/resources//images/instagram-image2.jpg
+2021-06-05 23:45:25.260344 [debug]: filesize:1069, iovcnt:2, write:1198 bytes
+2021-06-05 23:45:25.263747 [debug]: filesize:1047, iovcnt:2, write:1176 bytes
+2021-06-05 23:45:25.263852 [debug]: filesize:67313, iovcnt:2, write:67437 bytes
+2021-06-05 23:45:25.267719 [debug]: /images/instagram-image4.jpg
+2021-06-05 23:45:25.275665 [debug]: filesize:75836, iovcnt:2, write:75960 bytes
+2021-06-05 23:45:25.281600 [debug]: file path /home/lm/MyWebServer/resources//images/instagram-image4.jpg
+2021-06-05 23:45:25.281791 [debug]: filesize:103418, iovcnt:2, write:103543 bytes
+2021-06-05 23:45:25.320809 [debug]: /images/instagram-image3.jpg
+2021-06-05 23:45:25.320952 [debug]: file path /home/lm/MyWebServer/resources//images/instagram-image3.jpg
+2021-06-05 23:45:25.320989 [debug]: filesize:59528, iovcnt:2, write:59652 bytes
+2021-06-05 23:45:25.524123 [debug]: /css/bootstrap.min.css.map
+2021-06-05 23:45:25.524276 [debug]: file path /home/lm/MyWebServer/resources//404.html
+2021-06-05 23:45:25.524306 [debug]: filesize:3042, iovcnt:2, write:3171 bytes
+2021-06-05 23:45:27.236576 [debug]: /login.html
+2021-06-05 23:45:27.236815 [debug]: file path /home/lm/MyWebServer/resources//login.html
+2021-06-05 23:45:27.236891 [debug]: filesize:3487, iovcnt:2, write:3609 bytes
+2021-06-05 23:45:27.450953 [debug]: /css/bootstrap.min.css
+2021-06-05 23:45:27.490358 [debug]: /css/animate.css
+2021-06-05 23:45:27.500822 [debug]: /css/magnific-popup.css
+2021-06-05 23:45:27.517176 [debug]: /css/font-awesome.min.css
+2021-06-05 23:45:27.518580 [debug]: file path /home/lm/MyWebServer/resources//css/animate.css
+2021-06-05 23:45:27.518727 [debug]: file path /home/lm/MyWebServer/resources//css/magnific-popup.css
+2021-06-05 23:45:27.518848 [debug]: filesize:72922, iovcnt:2, write:73045 bytes
+2021-06-05 23:45:27.521698 [debug]: filesize:6951, iovcnt:2, write:7073 bytes
+2021-06-05 23:45:27.524796 [debug]: file path /home/lm/MyWebServer/resources//css/bootstrap.min.css
+2021-06-05 23:45:27.526076 [debug]: filesize:121260, iovcnt:2, write:121384 bytes
+2021-06-05 23:45:27.525966 [debug]: file path /home/lm/MyWebServer/resources//css/font-awesome.min.css
+2021-06-05 23:45:27.526191 [debug]: filesize:27392, iovcnt:2, write:27515 bytes
+2021-06-05 23:45:27.565842 [debug]: /css/style.css
+2021-06-05 23:45:27.569328 [debug]: /js/jquery.js
+2021-06-05 23:45:27.597371 [debug]: file path /home/lm/MyWebServer/resources//css/style.css
+2021-06-05 23:45:27.603305 [debug]: file path /home/lm/MyWebServer/resources//js/jquery.js
+2021-06-05 23:45:27.616689 [debug]: filesize:9815, iovcnt:2, write:9937 bytes
+2021-06-05 23:45:27.616857 [debug]: filesize:85658, iovcnt:2, write:85788 bytes
+2021-06-05 23:45:27.721539 [debug]: /js/bootstrap.min.js
+2021-06-05 23:45:27.769067 [debug]: file path /home/lm/MyWebServer/resources//js/bootstrap.min.js
+2021-06-05 23:45:27.770215 [debug]: filesize:36868, iovcnt:2, write:36998 bytes
+2021-06-05 23:45:27.785546 [debug]: /js/jquery.magnific-popup.min.js
+2021-06-05 23:45:27.793376 [debug]: file path /home/lm/MyWebServer/resources//js/jquery.magnific-popup.min.js
+2021-06-05 23:45:27.793426 [debug]: filesize:20932, iovcnt:2, write:21062 bytes
+2021-06-05 23:45:27.793463 [debug]: /js/wow.min.js
+2021-06-05 23:45:27.795718 [debug]: file path /home/lm/MyWebServer/resources//js/wow.min.js
+2021-06-05 23:45:27.798206 [debug]: filesize:7082, iovcnt:2, write:7211 bytes
+2021-06-05 23:45:27.798743 [debug]: /js/magnific-popup-options.js
+2021-06-05 23:45:27.798926 [debug]: file path /home/lm/MyWebServer/resources//js/magnific-popup-options.js
+2021-06-05 23:45:27.798988 [debug]: filesize:1069, iovcnt:2, write:1198 bytes
+2021-06-05 23:45:27.799036 [debug]: /js/smoothscroll.js
+2021-06-05 23:45:27.799106 [debug]: file path /home/lm/MyWebServer/resources//js/smoothscroll.js
+2021-06-05 23:45:27.799153 [debug]: filesize:4474, iovcnt:2, write:4603 bytes
+2021-06-05 23:45:27.915716 [debug]: /js/custom.js
+2021-06-05 23:45:27.915927 [debug]: file path /home/lm/MyWebServer/resources//js/custom.js
+2021-06-05 23:45:27.915994 [debug]: filesize:1047, iovcnt:2, write:1176 bytes
+2021-06-05 23:45:28.138963 [debug]: /css/bootstrap.min.css.map
+2021-06-05 23:45:28.139170 [debug]: file path /home/lm/MyWebServer/resources//404.html
+2021-06-05 23:45:28.139232 [debug]: filesize:3042, iovcnt:2, write:3171 bytes
+2021-06-05 23:46:27.728905 [info] : Client[18] quit!
+2021-06-05 23:46:27.729343 [info] : Client[18](192.168.3.1:29494) quit, UserCount:5
+2021-06-05 23:46:27.798769 [info] : Client[21] quit!
+2021-06-05 23:46:27.799584 [info] : Client[21](192.168.3.1:30774) quit, UserCount:4
+2021-06-05 23:46:27.799746 [info] : Client[19] quit!
+2021-06-05 23:46:27.800412 [info] : Client[19](192.168.3.1:29750) quit, UserCount:3
+2021-06-05 23:46:27.912452 [info] : Client[22] quit!
+2021-06-05 23:46:27.912841 [info] : Client[22](192.168.3.1:30262) quit, UserCount:2
+2021-06-05 23:46:27.916387 [info] : Client[20] quit!
+2021-06-05 23:46:27.916850 [info] : Client[20](192.168.3.1:30006) quit, UserCount:1
+2021-06-05 23:46:28.151781 [info] : Client[23] quit!
+2021-06-05 23:46:28.152496 [info] : Client[23](192.168.3.1:30518) quit, UserCount:0
