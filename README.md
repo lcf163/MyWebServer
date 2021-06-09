@@ -64,5 +64,5 @@ make
 ```
 
 ## 参考资料
-Linux高性能服务器编程，游双著
-https://github.com/markparticle/WebServer
+- Linux高性能服务器编程，游双著
+- https://github.com/markparticle/WebServer
